@@ -1,0 +1,17 @@
+table{
+    border-collapse: collapse;
+}
+
+button {
+    background-color: green;
+    width: 7vw;
+    height: 5vh;
+    color: white;
+    margin-left: 65px;
+    margin-top: 20px;
+    border: 0;
+}
+
+body {
+    background-color: black;
+}
